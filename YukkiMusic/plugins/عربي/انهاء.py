@@ -211,7 +211,7 @@ async def khalid(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 .╡", url=f"https://t.me/ch_world_music"),
+                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 .╡", url=f"https://t.me/yy8gg"),
                 ],
             ]
         ),
@@ -234,7 +234,7 @@ async def khalid(client: Client, message: Message):
                         name, url=f"https://t.me/{message.from_user.username}")
                 ],[
                     InlineKeyboardButton(
-                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞.╡", url=f"https://t.me/ch_world_music"),
+                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞.╡", url=f"https://t.me/yy8gg"),
                 ],
             ]
         ),
@@ -255,7 +255,7 @@ async def khalid(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 .╡", url=f"https://t.me/ch_world_music"),
+                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 .╡", url=f"https://t.me/yy8gg"),
                 ],
             ]
         ),
@@ -273,7 +273,7 @@ async def khalid(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 .╡", url=f"https://t.me/ch_world_music"),
+                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 .╡", url=f"https://t.me/yy8gg"),
                 ],
             ]
         ),
@@ -293,7 +293,7 @@ async def khalid(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 .╡", url=f"https://t.me/ch_world_music"),
+                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 .╡", url=f"https://t.me/yy8gg"),
                 ],
             ]
         ),
@@ -313,7 +313,7 @@ async def khalid(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 .╡", url=f"https://t.me/ch_world_music"),
+                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 .╡", url=f"https://t.me/yy8gg"),
                 ],
             ]
         ),
@@ -343,7 +343,7 @@ async def khalid(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 .╡", url=f"https://t.me/ch_world_music"),
+                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 .╡", url=f"https://t.me/yy8gg"),
                 ],
             ]
         ),
@@ -356,15 +356,15 @@ async def khalid(client: Client, message: Message):
 )
 async def khalid(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/a6c96cdbd066ca2388d06.jpg",
-        caption=f"""◍ مش محتاجين نكتب كلام كتير خش ع اول زرار وانت هتعرف""",
+        photo=f"https://telegra.ph/file/1c167f98ec87794b4af2c.jpg",
+        caption=f"""𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙩𝙝𝙚 𝘿𝙧𝙖𝙜𝙤𝙣 𝙎𝙤𝙪𝙧𝙘𝙚""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                InlineKeyboardButton("• 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍 ☤ ", url=f"https://t.me/WORLD_MUSIC_F"),
+                InlineKeyboardButton("𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍", url=f"https://t.me/ku_kx"),
                 ],[
                 InlineKeyboardButton(
-                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 .╡", url=f"https://t.me/ch_world_music"),
+                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 .╡", url=f"https://t.me/yy8gg"),
                 ]
             ]
         ),
@@ -377,15 +377,15 @@ async def khalid(client: Client, message: Message):
 )
 async def khalid(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/a6c96cdbd066ca2388d06.jpg",
-        caption=f"""[ٓ❍ | 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙎𝙊𝙐𝙍𝘾𝙀 𝙒𝙊𝙍𝙇𝘿 .](https://t.me/ch_world_music)\n\n[❍ | 𝙒𝙊𝙍𝙇𝘿 𝙏𝙃𝙀 𝘽𝙀𝙎𝙏 𝙎𝙊𝙐𝙍𝘾𝙀 𝙊𝙉 𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈 .](https://t.me/ch_world_music)\n\n[❍ | 𝙁𝘼𝙎𝙏 𝙎𝙊𝙐𝙍𝘾𝙀 𝙄𝙉 𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈.](https://t.me/ch_world_music)\n\n[❍ | 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍 𝙎𝙊𝙐𝙍𝘾𝙀 ](https://t.me/WORLD_MUSIC_F)""",
+        photo=f"https://telegra.ph/file/1c167f98ec87794b4af2c.jpg",
+        caption=f"""[𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙩𝙝𝙚 𝘿𝙧𝙖𝙜𝙤𝙣 𝙎𝙤𝙪𝙧𝙘𝙚 ](https://t.me/yy8gg)\n\n[𝙎𝙊𝙐𝙍𝘾𝙀 𝙊𝙉 𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈](https://t.me/yy8gg)\n\n[𝙁𝘼𝙎𝙏 𝙎𝙊𝙐𝙍𝘾𝙀 𝙄𝙉 𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈](https://t.me/yy8gg)\n\n[𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍 𝙎𝙊𝙐𝙍𝘾𝙀 ](https://t.me/ku_kx)""",
         reply_markup=InlineKeyboardMarkup(
         [
             [
                 InlineKeyboardButton(
-                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 .╡", url=f"https://t.me/ch_world_music"),
+                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 .╡", url=f"https://t.me/yy8gg"),
             ],[
-                InlineKeyboardButton("✚ Add me to your Group", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
+                InlineKeyboardButton("✚ أضفني الى مجموعتك", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
             ]
         ]
          ),
