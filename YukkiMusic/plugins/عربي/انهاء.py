@@ -262,7 +262,7 @@ async def khalid(client: Client, message: Message):
     )
     
 @app.on_message(
-    command(["بوت"])
+    command(["دراكون"])
     & ~filters.edited
 )
 async def khalid(client: Client, message: Message):
