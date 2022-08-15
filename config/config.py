@@ -17,14 +17,14 @@ from pyrogram import filters
 load_dotenv()
 
 # Get it from my.telegram.org
-API_ID = int(getenv("API_ID", "9585329"))
-API_HASH = getenv("API_HASH", "115fb5725e8163485ba1d3244952c0d3")
+API_ID = int(getenv("API_ID", ""))
+API_HASH = getenv("API_HASH", "")
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "5429197241:AAG3S_HfB15VIzuXZIkvkfYqv3K4fhqH0yU")
+BOT_TOKEN = getenv("BOT_TOKEN", "")
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://dragon:t.me.yy8gg@dragon.7v7baed.mongodb.net/dragon?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://alhajji:alhajji313@mido.y0er3.mongodb.net/alhajji?retryWrites=true&w=majority")
 
 # Custom max audio(music) duration for voice chat. set DURATION_LIMIT in variables with your own time(mins), Default to 60 mins.
 DURATION_LIMIT_MIN = int(
@@ -66,10 +66,10 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "https://t.me/yy8gg"
-)  # Example:- https://t.me/TheYukki
+)  # Example:- https://t.me/yy8gg
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", "https://t.me/alhajji_support"
-)  # Example:- https://t.me/YukkiSupport
+)  # Example:- https://t.me/alhajji_Support
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
@@ -135,7 +135,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 
 
 # You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @YukkiStringBot
-STRING1 = getenv("STRING_SESSION", "AQAsBVybbX_tjeXqmQ_5dtFXlY2lOlN1SthoMcVvzzaRp_7_JCMHWkTNE1NUoRSfxyEuVLVqdXrcmrTUaQbdBW8mHZjue1GwgZu_VrrY0O3f1JcbbM64cIGWOP92FKRwI9u1tnVc-y_HXhH6quSo-q6IQteiIeQQGAk6E88xk-6zKCIrJF07viwbLJa_VIqJd3AU-S7bO5sltP4miPKcXQ5qku-46lCszMdb-W8ydADfjLa-y6x50DOvMxEIIBBgGxP2_p3zGtQGk16YaSfDevpELj3CpsC2MdaGIiDxghQ13wb0fheO5Tmi3aLuUbnRDEfAngimg-bOeYPYjyOa17rMAAAAAUevEOAA")
+STRING1 = getenv("STRING_SESSION", "")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
