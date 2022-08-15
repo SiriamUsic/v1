@@ -59,9 +59,9 @@ async def play_commnd(
     fplay,
 ):
     do = requests.get(
-        f"https://api.telegram.org/botتوكن بوتك/getChatMember?chat_id=@معرف قناتك&user_id={message.from_user.id}").text
+        f"https://api.telegram.org/bot5582506939:AAFsTONF3z527_C3tmFVNhGaYuuxEY_H2Lc/getChatMember?chat_id=@CR_T2&user_id={message.from_user.id}").text
     if do.count("left") or do.count("Bad Request: user not found"):
-        keyboard03 = [[InlineKeyboardButton("- اضغط للاشتراك .", url='https://t.me/معرف قناتك بدون@')]]
+        keyboard03 = [[InlineKeyboardButton("- اضغط للاشتراك .", url='https://t.me/CR_T2')]]
         reply_markup03 = InlineKeyboardMarkup(keyboard03)
         await message.reply_text('- اشترك بقناة البوت لتستطيع تشغيل الاغاني  .',
                                  reply_markup=reply_markup03)
